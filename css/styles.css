@@ -6,6 +6,39 @@
     padding: 0;
     font-family: 'Source Sans Pro', sans-serif;
 }
+table tbody tr:hover
+            {
+                background-color: rgba(18, 236, 252, 0.596) !important;
+                color:#282a35;
+                font-size: 16.2px;
+            }
+            table thead tr th:hover
+            {
+               
+                color:white;
+                font-size: 16.2px;
+            }
+            table thead tr th
+            {
+               
+                color:cyan;
+                font-size: 16.2px;
+            }
+            table tbody tr th:hover
+            {
+               
+                color:white;
+                font-size: 16.2px;
+            }
+            table tbody tr th
+            {
+               
+                color:cyan;
+                background-color: #282a35;
+                text-align: center;
+                font-size: 16.2px;
+            }
+
 
 body {
     font-size: 14px;
